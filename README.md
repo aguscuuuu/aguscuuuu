@@ -20,7 +20,7 @@
 
 ## Lenguajes y herramientas
 <p align="left"> 
-    <img src="" alt="bootstrap" width="75" height="75"/>
+    <img src="bootstrap.png" alt="bootstrap" width="75" height="75"/>
     <img src="c.png" alt="c" width="75" height="75"/>
     <img src="css3.png" alt="css" width="75" height="75"/>
     <img src="git.png" alt="git" width="75" height="75"/> 
