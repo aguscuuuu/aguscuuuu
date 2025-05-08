@@ -20,10 +20,10 @@
 
 ## Lenguajes y herramientas
 <p align="left"> 
-    <img src="./bootstrap.png" alt="bootstrap" width="75" height="75"/>
-    <img src="./c.png" alt="c" width="75" height="75"/>
-    <img src="./css3.png" alt="css3" width="75" height="75"/>
-    <img src="./git.png" alt="git" width="75" height="75"/> 
-    <img src="./html5.png" alt="html5" width="75" height="75"/> 
-    <img src="./typescript.png" alt="typescript" width="75" height="75"/>
+    <img src="" alt="bootstrap" width="75" height="75"/>
+    <img src="c.png" alt="c" width="75" height="75"/>
+    <img src="css3.png" alt="css" width="75" height="75"/>
+    <img src="git.png" alt="git" width="75" height="75"/> 
+    <img src="html.png" alt="html" width="75" height="75"/> 
+    <img src="typescript.png" alt="typescript" width="75" height="75"/>
 </p>
