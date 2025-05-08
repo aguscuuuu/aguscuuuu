@@ -14,7 +14,7 @@
 ## Encontrame en 
 <p align="left">   
     <a href="https://dev.to/aguscuuuu" target="_blank"><img src="./dev.png" alt="aguscuuuu" width="100" height="100"></a> 
-    <a href="https://www.linkedin.com/in/agustín-ezequiel-cuenca-19b963216/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin ezequiel cuenca" width="100" height="100"></a> 
+    <a href="https://www.linkedin.com/in/agustín-ezequiel-cuenca-19b963216/" target="_blank"><img src="./linkedin.png" alt="agustin ezequiel cuenca" width="100" height="100"></a> 
     <a href="https://instagram.com/aguscuu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguscuuu" width="100" height="100"></a> 
 </p>
 
