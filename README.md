@@ -1,5 +1,6 @@
 # Hola! Me llamo Agustin 👋
-### Estudiante de Desarrollo de Software argentino
+### Estudiante de Desarrollo de Software argentino 
+<img src="argentina.png" alt="argentina" width="75" height="75"/>
 
 - 🔭 Actualmente estoy trabajando en mi primer **e-commerce** [EKOS](https://github.com/aguscuuuu/coder-ekos)
 
