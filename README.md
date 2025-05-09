@@ -25,5 +25,5 @@
     <img src="css3.png" alt="css" width="75" height="75"/>
     <img src="git.png" alt="git" width="75" height="75"/> 
     <img src="html.png" alt="html" width="75" height="75"/> 
-    <img src="typescript.png" alt="typescript" width="75" height="75"/>
+    <img src="markdown.png" alt="markdown" width="75" height="75"/>
 </p>
