@@ -20,7 +20,7 @@
 ## Lenguajes y herramientas
 <p align="left"> 
     <img src="html.svg" alt="html" width="75" height="75"/>
-    <img src="css3.svg" alt="css" width="75" height="75"/>
+    <img src="css.svg" alt="css" width="75" height="75"/>
     <img src="javascript.svg" alt="javascript" width="75" height="75"/>
     <img src="c.svg" alt="c" width="75" height="75"/>
     <img src="react.svg" alt="react" width="75" height="75"/>
