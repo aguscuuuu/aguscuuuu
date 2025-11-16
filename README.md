@@ -1,13 +1,13 @@
 # Hola! Me llamo Agustin👋
 ### Estudiante argentino de Desarrollo de Software
 
-- Actualmente estoy trabajando en mi primer **e-commerce** [EKOS Accesorios](https://aguscuuuu.github.io/coder-ekos/)
+- Actualmente estoy trabajando en mi primer Frontend de **E-Commerce** [EKOS Accesorios](https://aguscuuuu.github.io/coder-ekos/)
 
 - Soy un estudiante de la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús**
 
-- Me encuentro realizando un curso de **Full Stack Web Development**
+- Me estoy excursionando en el Backend
 
-- Todos mis proyectos se encuentran en este [GitHub](https://github.com/aguscuuuu)
+- Todos mis proyectos se encuentran en este perfil de Github
 
 - Mi mail de contacto es **agustin.cuenca.ct@gmail.com**
 
