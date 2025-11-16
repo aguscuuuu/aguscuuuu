@@ -1,18 +1,15 @@
 # Hola! Me llamo Agustin 
-<img src="cueecode.png" alt="html" width="200"/>
-### Estudiante argentino de Desarrollo de Software
 
-- Actualmente estoy trabajando en mi primer Frontend de **E-Commerce** [EKOS Accesorios](https://aguscuuuu.github.io/coder-ekos/)
+## Estudiante argentino de Desarrollo de Software
+  - Actualmente estoy trabajando en mi primer Frontend de **E-Commerce** [EKOS Accesorios](https://aguscuuuu.github.io/coder-ekos/)
+  - Soy un estudiante de la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús**
+  - Me estoy excursionando en el **Backend**
+  - Próximo a aprender sobre **Data Science**
+  - Todos mis proyectos se encuentran en este perfil de **Github**
+  - Mi mail de contacto es **agustin.cuenca.ct@gmail.com**
 
-- Soy un estudiante de la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús**
-
-- Me estoy excursionando en el Backend
-  
-- Próximo a aprender Data Science
-
-- Todos mis proyectos se encuentran en este perfil de Github
-
-- Mi mail de contacto es **agustin.cuenca.ct@gmail.com**
+## Estoy diseñando mi sitio web personal
+  <a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="cueecode.png" alt="cuecode" height="70"></a> 
 
 ## Encontrame en 
 <p align="left">   
