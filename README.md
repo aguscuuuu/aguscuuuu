@@ -6,6 +6,8 @@
 - Soy un estudiante de la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús**
 
 - Me estoy excursionando en el Backend
+  
+- Próximo a aprender Data Science
 
 - Todos mis proyectos se encuentran en este perfil de Github
 
