@@ -1,4 +1,5 @@
-# Hola! Me llamo Agustin
+# Hola! Me llamo Agustin 
+<img src="cuecode.png" alt="html" width="200"/>
 ### Estudiante argentino de Desarrollo de Software
 
 - Actualmente estoy trabajando en mi primer Frontend de **E-Commerce** [EKOS Accesorios](https://aguscuuuu.github.io/coder-ekos/)
