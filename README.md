@@ -13,16 +13,18 @@
 
 ## Encontrame en 
 <p align="left">   
-    <a href="https://www.linkedin.com/in/agustin-ezequiel-cuenca" target="_blank"><img src="linkedin.png" alt="agustin ezequiel cuenca" width="75" height="75"></a> 
-    <a href="https://instagram.com/aguscuu" target="_blank"><img src="instagram.png" alt="aguscuuu" width="75" height="75"></a> 
+    <a href="https://www.linkedin.com/in/agustin-ezequiel-cuenca" target="_blank"><img src="linkedin.svg" alt="agustin ezequiel cuenca" width="75" height="75"></a> 
+    <a href="https://instagram.com/aguscuu" target="_blank"><img src="instagram.svg" alt="aguscuuu" width="75" height="75"></a> 
 </p>
 
 ## Lenguajes y herramientas
 <p align="left"> 
-    <img src="bootstrap.png" alt="bootstrap" width="75" height="75"/>
-    <img src="c.png" alt="c" width="75" height="75"/>
-    <img src="css3.png" alt="css" width="75" height="75"/>
-    <img src="git.png" alt="git" width="75" height="75"/> 
-    <img src="html.png" alt="html" width="75" height="75"/> 
-    <img src="markdown.png" alt="markdown" width="75" height="75"/>
+    <img src="html.svg" alt="html" width="75" height="75"/>
+    <img src="css3.svg" alt="css" width="75" height="75"/>
+    <img src="javascript.svg" alt="javascript" width="75" height="75"/>
+    <img src="c.svg" alt="c" width="75" height="75"/>
+    <img src="react.svg" alt="react" width="75" height="75"/>
+    <img src="git.svg" alt="git" width="75" height="75"/> 
+    <img src="bootstrap.svg" alt="bootstrap" width="75" height="75"/>
+    <img src="markdown.svg" alt="markdown" width="75" height="75"/>
 </p>
