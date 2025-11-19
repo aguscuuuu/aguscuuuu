@@ -9,7 +9,7 @@
   - Mi mail de contacto es **agustin.cuenca.ct@gmail.com**
 
 ## Estoy diseñando mi sitio web personal
-  <a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="cueecode.png" alt="cuecode" height="70"></a> 
+  <a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="4.png" alt="cuecode" height="90"></a> 
 
 ## Encontrame en 
 <p align="left">   
