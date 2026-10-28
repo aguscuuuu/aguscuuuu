@@ -57,7 +57,7 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 ## 🌐 Mi sitio personal
 
-<a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="4.png" alt="cueCode" height="90"></a>
+<a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="cuecode.png" alt="cueCode" height="90"></a>
 
 <!-- imagen -->
 
