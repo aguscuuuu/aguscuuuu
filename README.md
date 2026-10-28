@@ -2,12 +2,13 @@
 
 **Desarrollador web junior y estudiante de la Licenciatura en Sistemas** en la [Universidad Nacional de Lanús](https://www.unla.edu.ar/) · Buenos Aires, Argentina 🇦🇷
 
-Construyo **interfaces web** con HTML, SCSS, JavaScript y React, **APIs backend** con Node.js, Express y MongoDB, y hago **análisis de datos** con SQL Server y Power BI. Me gusta documentar bien lo que hago: cada proyecto tiene un README que explica qué es, cómo funciona y cómo correrlo.
+Construyo **interfaces web** con HTML, SCSS, JavaScript y React, **APIs backend** con Node.js, Express y MongoDB, y hago **análisis de datos** con SQL Server, Excel y Power BI. Me gusta documentar bien lo que hago: cada proyecto tiene un README que explica qué es, cómo funciona y cómo correrlo.
 
 - Actualmente: reescribiendo mi e-commerce **EKOS** en React y avanzando en **Data Science**.
-- Aprendiendo: Python, Pandas y Machine Learning
+- Aprendiendo: Python, Pandas y Machine Learning. También estoy por pasarme de Windows a **Linux (Fedora)**.
+- Idiomas: español (nativo) e **inglés B2** (CEFR).
 - Contacto: **agustin.cuenca.ct@gmail.com**
-- CV: 
+- CV: <!-- ✏️ link al CV actualizado (sin tu celular) -->
 
 ---
 
@@ -72,22 +73,33 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 **Datos y lenguajes**
 
-<img src="https://skillicons.dev/icons?i=c,mysql" alt="datos" /> <!-- agregar power bi y sql server -->
+<img src="https://skillicons.dev/icons?i=c,mysql" alt="datos" /> <!-- agregar power bi, sql server y excel (no están en skillicons) -->
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,md" alt="herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,md" alt="herramientas" />
+
+---
+
+## Experiencia
+
+**Administrativo — Ministerio de Defensa** · *2023 – presente*
+- Mantenimiento diario de datasets sobre despliegues de las Fuerzas Armadas en situaciones de emergencias.
+- Control del presupuesto del área y elaboración de informes presupuestarios en Excel.
+- Soporte informático básico y configuración de puestos de trabajo.
+- Gestión de expedientes en el sistema de Gestión Documental Electrónica (GDE) y control del inventario patrimonial.
 
 ---
 
 ## Formación
 
 - **Licenciatura en Sistemas** — Universidad Nacional de Lanús *(en curso)*
-- **Coderhouse** — [Desarrollo Web](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [JavaScript](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [React](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Backend](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Data Analytics](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) 
+- **Coderhouse** — [Desarrollo Web (2025)](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [JavaScript (2025)](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [React (2025)](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Backend (2026)](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Data Analytics (2026)](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/)
+- **Inglés B2 (CEFR)** — Anglia Examinations (2022)
 
 ---
 
-## aContactame
+## Contactame
 
 <p align="left">
   <a href="https://www.linkedin.com/in/agustin-ezequiel-cuenca" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"></a>
