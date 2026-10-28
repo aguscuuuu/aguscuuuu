@@ -1,20 +1,17 @@
-<!-- 📷 IMAGEN 1 (opcional): banner horizontal (~1200x300) con tu nombre / logo cueCode -->
-<!-- <p align="center"><img src="banner.png" alt="cueCode" width="100%"></p> -->
-
 # Hola, soy Agustín 👋
 
 **Desarrollador web junior y estudiante de la Licenciatura en Sistemas** en la [Universidad Nacional de Lanús](https://www.unla.edu.ar/) · Buenos Aires, Argentina 🇦🇷
 
 Construyo **interfaces web** con HTML, SCSS, JavaScript y React, **APIs backend** con Node.js, Express y MongoDB, y hago **análisis de datos** con SQL Server y Power BI. Me gusta documentar bien lo que hago: cada proyecto tiene un README que explica qué es, cómo funciona y cómo correrlo.
 
-- 🔭 Actualmente: reescribiendo mi e-commerce **EKOS** en React y avanzando en **Data Science**.
-- 🌱 Aprendiendo: Python, Pandas y Machine Learning
-- 📫 Contacto: **agustin.cuenca.ct@gmail.com**
-- 📄 CV: 
+- Actualmente: reescribiendo mi e-commerce **EKOS** en React y avanzando en **Data Science**.
+- Aprendiendo: Python, Pandas y Machine Learning
+- Contacto: **agustin.cuenca.ct@gmail.com**
+- CV: 
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 ### 🔐 [Backend — Autenticación híbrida con Node.js](https://github.com/aguscuuuu/backend)
 API REST con **Express 5 + MongoDB** que combina login local (bcrypt), **GitHub OAuth**, **JWT** y sesiones persistidas en Mongo, con rutas protegidas por token y por rol. Arquitectura en capas, logging con Winston, **tests funcionales** (Mocha, Chai, Supertest, Sinon) e imagen **Docker** publicada en DockerHub.
@@ -44,7 +41,7 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 ---
 
-## 🧩 Otros proyectos
+## Otros proyectos
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
@@ -55,7 +52,7 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 ---
 
-## 🌐 Mi sitio personal
+## Mi sitio personal
 
 <a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="cuecode.png" alt="cueCode" height="90"></a>
 
@@ -63,7 +60,7 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Frontend**
 
@@ -83,14 +80,14 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 ---
 
-## 🎓 Formación
+## Formación
 
 - **Licenciatura en Sistemas** — Universidad Nacional de Lanús *(en curso)*
 - **Coderhouse** — [Desarrollo Web](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [JavaScript](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [React](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Backend](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Data Analytics](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) 
 
 ---
 
-## 📫 Contactame
+## aContactame
 
 <p align="left">
   <a href="https://www.linkedin.com/in/agustin-ezequiel-cuenca" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"></a>
