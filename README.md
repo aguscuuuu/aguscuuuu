@@ -1,30 +1,99 @@
-# Hola! Me llamo Agustin 
+<!-- 📷 IMAGEN 1 (opcional): banner horizontal (~1200x300) con tu nombre / logo cueCode -->
+<!-- <p align="center"><img src="banner.png" alt="cueCode" width="100%"></p> -->
 
-## Estudiante argentino de Desarrollo de Software
-  - Actualmente estoy trabajando en mi primer Frontend de **E-Commerce** [EKOS Accesorios](https://aguscuuuu.github.io/coder-ekos/)
-  - Soy un estudiante de la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús**
-  - Me estoy excursionando en el **Backend**
-  - Próximo a aprender sobre **Data Science**
-  - Todos mis proyectos se encuentran en este perfil de **Github**
-  - Mi mail de contacto es **agustin.cuenca.ct@gmail.com**
+# Hola, soy Agustín 👋
 
-## Estoy diseñando mi sitio web personal
-  <a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="4.png" alt="cuecode" height="90"></a> 
+**Desarrollador web junior y estudiante de la Licenciatura en Sistemas** en la [Universidad Nacional de Lanús](https://www.unla.edu.ar/) · Buenos Aires, Argentina 🇦🇷
 
-## Encontrame en 
-<p align="left">   
-    <a href="https://www.linkedin.com/in/agustin-ezequiel-cuenca" target="_blank"><img src="linkedin.svg" alt="agustin ezequiel cuenca" width="75" height="75"></a> 
-    <a href="https://instagram.com/aguscuu" target="_blank"><img src="instagram.svg" alt="aguscuuu" width="85" height="85"></a> 
-</p>
+Construyo **interfaces web** con HTML, SCSS, JavaScript y React, **APIs backend** con Node.js, Express y MongoDB, y hago **análisis de datos** con SQL Server y Power BI. Me gusta documentar bien lo que hago: cada proyecto tiene un README que explica qué es, cómo funciona y cómo correrlo.
 
-## Mis habilidades
-<p align="left" style="display: flex; align-items: center"> 
-    <img src="html.svg" alt="html" width="82" height="82"/>
-    <img src="css.svg" alt="css" width="82" height="82"/>
-    <img src="javascript.svg" alt="javascript" width="75" height="75"/>
-    <img src="c.svg" alt="c" width="75" height="75"/>
-    <img src="react.svg" alt="react" width="75" height="75"/>
-    <img src="git.svg" alt="git" width="75" height="75"/> 
-    <img src="bootstrap.svg" alt="bootstrap" width="90" height="90"/>
-    <img src="markdown.svg" alt="markdown" width="75" height="75"/>
+- 🔭 Actualmente: reescribiendo mi e-commerce **EKOS** en React y avanzando en **Data Science**.
+- 🌱 Aprendiendo: Python, Pandas y Machine Learning
+- 📫 Contacto: **agustin.cuenca.ct@gmail.com**
+- 📄 CV: 
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔐 [Backend — Autenticación híbrida con Node.js](https://github.com/aguscuuuu/backend)
+API REST con **Express 5 + MongoDB** que combina login local (bcrypt), **GitHub OAuth**, **JWT** y sesiones persistidas en Mongo, con rutas protegidas por token y por rol. Arquitectura en capas, logging con Winston, **tests funcionales** (Mocha, Chai, Supertest, Sinon) e imagen **Docker** publicada en DockerHub.
+
+`Node.js` `Express` `MongoDB` `Passport` `JWT` `Socket.IO` `Docker`
+
+<!-- poner imagen  -->
+
+### 📊 [Nike Sales Analytics — SQL Server + Power BI](https://github.com/aguscuuuu/data-analytics-nike)
+Proyecto integrador del curso de **Data Analytics de Coderhouse**: 229.471 ventas modeladas en un **esquema estrella** en SQL Server, carga y limpieza desde JSON con T-SQL, y un **informe de ventas en Power BI** pensado con storytelling para un equipo de marketing.
+
+`SQL Server` `T-SQL` `Power BI` `DAX` `Excel`
+
+<!-- poner imagen  -->
+
+### 💍 [EKOS Accesorios — E-commerce](https://github.com/aguscuuuu/coder-ekos) · [**Ver sitio**](https://aguscuuuu.github.io/coder-ekos/)
+Mi primer frontend: tienda online de joyería y accesorios, responsive, con catálogo, medios de pago, envíos y contacto. La estoy reescribiendo con React en [coder-ekos-react](https://github.com/aguscuuuu/coder-ekos-react).
+
+`HTML` `SCSS` `JavaScript` `Bootstrap` `React`
+
+<!-- poner imagen  -->
+
+### 🧠 [Programación en C — UNLa](https://github.com/aguscuuuu/unla-c)
+Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, memoria dinámica, listas, pilas, colas, árboles y archivos, más modelos de parciales y finales (2019–2023) con pruebas de escritorio.
+
+`C` `Algoritmos` `Estructuras de datos`
+
+---
+
+## 🧩 Otros proyectos
+
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| [Pomodoro Timer · demo](https://github.com/aguscuuuu/pomodoro) | Reloj Pomodoro minimalista y responsive para mejorar la productividad | HTML · CSS · JS |
+| [Cards Total · demo](https://github.com/aguscuuuu/cards-total) | Juego para practicar cálculo mental sumando cartas (mazo español o de póker) | HTML · CSS · JS |
+| [cueCode · demo](https://github.com/aguscuuuu/personal-site) | Mi sitio personal / portfolio | HTML · SCSS · JS |
+| [Ejercicios de JavaScript · demo](https://github.com/aguscuuuu/coder-js) | Algoritmos y manipulación del DOM del curso de JavaScript de Coderhouse | HTML · JS |
+
+---
+
+## 🌐 Mi sitio personal
+
+<a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="4.png" alt="cueCode" height="90"></a>
+
+<!-- imagen -->
+
+---
+
+## 🛠️ Tecnologías
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap" alt="frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker" alt="backend" />
+
+**Datos y lenguajes**
+
+<img src="https://skillicons.dev/icons?i=c,mysql" alt="datos" /> <!-- agregar power bi y sql server -->
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,md" alt="herramientas" />
+
+---
+
+## 🎓 Formación
+
+- **Licenciatura en Sistemas** — Universidad Nacional de Lanús *(en curso)*
+- **Coderhouse** — [Desarrollo Web](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [JavaScript](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [React](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Backend](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) · [Data Analytics](https://www.linkedin.com/in/agustin-ezequiel-cuenca/details/certifications/) 
+
+---
+
+## 📫 Contactame
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/agustin-ezequiel-cuenca" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60"></a>
+  <a href="mailto:agustin.cuenca.ct@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60" height="60"></a>
+  <a href="https://instagram.com/aguscuu" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60" height="60"></a>
 </p>
