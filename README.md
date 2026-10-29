@@ -73,7 +73,9 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,bash,md,figma,notion,windows" alt="herramientas" /> <img src="ssms.png" alt="SQL Server Management Studio" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" alt="Word" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" alt="PowerPoint" height="48" /> <img src="https://img.icons8.com/color/48/power-bi-2021.png" alt="Power BI" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,bash,md,figma,notion" alt="herramientas" />
+
+<img src="https://skillicons.dev/icons?i=windows" alt="Windows" /> <img src="ssms.png" alt="SQL Server Management Studio" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" alt="Word" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" alt="PowerPoint" height="48" /> <img src="https://img.icons8.com/color/48/power-bi-2021.png" alt="Power BI" height="48" />
 
 ---
 
