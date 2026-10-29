@@ -8,7 +8,7 @@ Construyo **interfaces web** con HTML, SCSS, JavaScript y React, **APIs backend*
 - Aprendiendo: Python, Pandas y Machine Learning. También estoy por pasarme de Windows a **Linux (Fedora)**.
 - Idiomas: español (nativo) e **inglés B2** (CEFR).
 - Contacto: **agustin.cuenca.ct@gmail.com**
-- CV: <!-- ✏️ link al CV actualizado (sin tu celular) -->
+- CV: [**PDF**](https://drive.google.com/file/d/1e2LcjAKCRHGhMdgtKTk2ktwVjv9Fxm7U/view?usp=drive_link)
 
 ---
 
