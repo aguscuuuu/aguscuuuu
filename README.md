@@ -55,7 +55,7 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 ## Mi sitio personal
 
-<a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="cuecode.png" alt="cueCode" height="90"></a>
+<a href="https://aguscuuuu.github.io/personal-site/" target="_blank"><img src="cuecode.png" alt="cueCode" height="130"></a>
 
 <!-- imagen -->
 
@@ -63,21 +63,17 @@ Ejercicios de la materia de Programación de la UNLa: estructuras, punteros, mem
 
 ## Tecnologías
 
-**Frontend**
+**Lenguajes y frameworks**
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,nodejs,express,c" alt="lenguajes y frameworks" />
 
-**Backend**
+**Bases de datos**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker" alt="backend" />
-
-**Datos y lenguajes**
-
-<img src="https://skillicons.dev/icons?i=c,mysql" alt="datos" /> <!-- agregar power bi, sql server y excel (no están en skillicons) -->
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> <img src="https://img.icons8.com/fluency/48/sql.png" alt="SQL" height="48" />
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,md" alt="herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,bash,md,figma,notion,windows" alt="herramientas" /> <img src="ssms.png" alt="SQL Server Management Studio" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" alt="Word" height="48" /> <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" alt="PowerPoint" height="48" /> <img src="https://img.icons8.com/color/48/power-bi-2021.png" alt="Power BI" height="48" />
 
 ---
 
